@@ -8,8 +8,8 @@
 		"vscode": {
 			"extensions": [
 				"rust-lang.rust-analyzer",
-				"vadimcn.vscode-lldb",
-				"GitHub.copilot"
+				"vadimcn.vscode-lldb"
+				// "GitHub.copilot"
 			]
 		}
 	}
